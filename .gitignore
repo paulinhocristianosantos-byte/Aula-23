@@ -1,0 +1,15 @@
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]em
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[L]ocal
+[Ss]scripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# Fim de https://www.toptal.com/developers/gitignore/api/venv
